@@ -1,3 +1,5 @@
+# Updated: Cách stress test tốt hơn đã được trình bày ở [đây](https://github.com/ppap-1264589/BATCH_GENTEST/tree/main) với nhiều ưu điểm hơn GitBash
+
 # gitbash_stresstest
 
 ## Hướng dẫn căn bản:
