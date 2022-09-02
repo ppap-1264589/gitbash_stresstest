@@ -23,7 +23,7 @@ Test đó sẽ có input nằm ở input_file và output nằm ở correctAnswer
 
   Để sử dụng được script.sh, bạn cần tải GitBash về trước: [Link](https://gitforwindows.org)
   
-  Đồng thời, tích hợp môi trường MinGW vào Window để GitBash hiểu được lệnh g++: [Tích hợp môi trường MinGW vào Window để biến Sublime Text thành IDE](https://nam.name.vn/huong-dan-bien-sublime-text-thanh-ide-lap-trinh-c-c.html)
+  Đồng thời, tích hợp môi trường MinGW vào Window để GitBash hiểu được lệnh g++: [Tích hợp môi trường MinGW vào Window để biến Sublime Text thành IDE](https://nam.name.vn/huong-dan-bien-sublime-text-thanh-ide-lap-trinh-c-c.html#ftoc-heading-3)
   
 ## Có một số nhược điểm sau cũng nên lưu ý:
   
